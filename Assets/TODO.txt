@@ -11,4 +11,5 @@ Pressing up or down should move the selected cube up or down in the y axis.
 If you have to change the scene to avoid an error, okay, but it would be better if you found a way to avoid errors by changing only code.
 
 
-Avoiding errors and getting everything working is the main priority, but 
+Avoiding errors and getting everything working is the main priority, but keep in mind the coding standards posted on the test web page:
+http://495.azurewebsites.net/home/standards
