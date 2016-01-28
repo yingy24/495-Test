@@ -4,11 +4,6 @@ using System.Collections.Generic;
 
 public class CubeColor : MonoBehaviour
 {
-    /*
-        
-        
-        
-    */
     public int selectedcube = -1;
     private int dayoftheweek;
 
